@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(img/recife_background.jpeg);
+    background-image: url(/img/recife_background.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
