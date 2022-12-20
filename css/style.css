@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(background.jpg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.credit {
+    background: #4c3b56;
+    font-size: 1.3em;
+    color: whitesmoke;
+    padding: 1em;
+    border-radius: 0.5em;
+}
+
+.credit a {
+    color: turquoise;
+    transition: 1s;
+}
+
+.credit a:hover {
+    color: white;
+    text-shadow: 0 0 8px white;
+}
+
+.fotos{
+  background-color: red;
+  margin: 10px; 
+}
